@@ -1,0 +1,6 @@
+
+This is just a toy I was playing with this afternoon: I was intrigued by Mike
+Vanier's explanation of the Y combinator in scheme at
+http://mvanier.livejournal.com/2897.html, and since I've been using erlang
+lately I thought I'd try out the concepts in another language.
+
